@@ -167,9 +167,7 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 ![](/13.png)
 
-![](/14.png)
-
-![](/15.png)
+![](/14.png)![](/15.png)
 
 ![](16.png)
 
