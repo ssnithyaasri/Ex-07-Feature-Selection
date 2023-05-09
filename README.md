@@ -11,12 +11,15 @@ Selecting the best features helps the model to perform well.
 STEP 1
 
 Read the given Data
+
 STEP 2
 
 Clean the Data Set using Data Cleaning Process
+
 STEP 3
 
 Apply Feature selection techniques to all the features of the data set
+
 STEP 4
 
 Save the data to the file
